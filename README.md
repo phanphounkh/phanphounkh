@@ -1,15 +1,11 @@
 
+<div align="center">
+
 # Hi, I'm Phan Phoun 👋
 
-<div align="center">
-  <img
-    src="./ls.png"
-    alt="Sorya AI - Phan Phoun"
-    width="100%"
-  />
-</div>
+<img src="./ls.png" alt="Sorya-AI Banner" width="100%" />
 
-### AI/ML Engineer | Full-Stack Developer | Cambodia 🇰🇭
+### AI/ML Engineer • Full-Stack Developer • Cambodia 🇰🇭
 
 **Building intelligent software and advancing Khmer-language AI.**
 
@@ -31,55 +27,125 @@
 
 ---
 
-## `phoun@skai:~$ whoami`
+## 👨‍💻 `phoun@skai:~$ whoami`
 
-```yaml
-developer:
-  name: Phan Phoun
-  role: AI/ML Engineer
-  company: SKAI Technology
-  location: Cambodia
-  os: Debian Linux
-  editor: VS Code
+<table>
+<tr>
+<td width="52%" valign="top">
 
-  expertise:
-    - Artificial Intelligence
-    - Machine Learning
-    - Deep Learning
-    - Natural Language Processing
-    - Computer Vision
-    - Large Language Models
-    - Full-Stack AI Development
+<h3>👋 PHAN Phoun</h3>
 
-  currently:
-    building: Sorya-AI
-    exploring: Khmer OCR & ASR
-    learning: Neural Networks and Transformers
-    interested_in: RAG, LLMs, AI Agents
+<strong>AI/ML Engineer @ SKAI Technology</strong>
 
-  philosophy: "Learn. Build. Improve."
-```
+<p>
+📍 Cambodia 🇰🇭<br>
+💻 Debian Linux · VS Code<br>
+🌐 <a href="https://www.camdev.site/">Personal Portfolio</a><br>
+🔗 <a href="https://www.linkedin.com/in/phanphoun/">LinkedIn Profile</a>
+</p>
 
-## `phoun@skai:~$ cat about-me.md`
+<p>
+Building intelligent applications that make modern AI more accessible, especially for Khmer speakers.
+</p>
 
-I'm an **AI/ML Engineer at SKAI Technology** passionate about building intelligent applications that solve real-world problems.
+</td>
+<td width="48%" valign="top">
 
-My work combines artificial intelligence, backend development, frontend engineering, databases, and deployment.
+<h3>🚀 Current Focus</h3>
 
-I'm particularly interested in building AI systems that understand the **Khmer language**, including handwriting recognition, speech recognition, and intelligent document processing.
+<p>
+☀️ <strong>Building:</strong> Sorya-AI<br>
+🇰🇭 <strong>Research:</strong> Khmer OCR & ASR<br>
+🧠 <strong>Learning:</strong> Neural Networks<br>
+🤖 <strong>Exploring:</strong> LLMs & AI Agents<br>
+📚 <strong>Studying:</strong> Transformers & RAG
+</p>
 
-### 🔭 What I'm working on
+</td>
+</tr>
+</table>
 
-- 🤖 Developing AI applications and intelligent assistants
-- 🇰🇭 Exploring Khmer OCR and Automatic Speech Recognition
-- 🧠 Studying neural networks, backpropagation, and transformers
-- 📚 Building RAG pipelines, embeddings, and semantic search
-- ⚡ Developing APIs with FastAPI, PostgreSQL, and Redis
-- 🐳 Deploying and monitoring services with Docker and Grafana
+### ⚡ My Engineering Toolbox
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+
+<strong>🧠 AI / ML</strong>
+
+<br><br>
+
+<code>PyTorch</code><br>
+<code>Transformers</code><br>
+<code>OpenCV</code><br>
+<code>LLMs</code><br>
+<code>RAG</code>
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<strong>⚙️ Backend</strong>
+
+<br><br>
+
+<code>Python</code><br>
+<code>FastAPI</code><br>
+<code>PostgreSQL</code><br>
+<code>Redis</code><br>
+<code>REST APIs</code>
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<strong>🎨 Frontend</strong>
+
+<br><br>
+
+<code>SvelteKit</code><br>
+<code>TypeScript</code><br>
+<code>React</code><br>
+<code>TailwindCSS</code><br>
+<code>JavaScript</code>
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<strong>☁️ DevOps</strong>
+
+<br><br>
+
+<code>Docker</code><br>
+<code>Linux</code><br>
+<code>Git</code><br>
+<code>Grafana</code><br>
+<code>Prometheus</code>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `phoun@skai:~$ cat tech-stack.yml`
+## 📖 `phoun@skai:~$ cat about-me.md`
+
+I'm an **AI/ML Engineer at SKAI Technology** passionate about turning AI research and engineering ideas into practical applications.
+
+My work combines **machine learning, backend engineering, frontend development, and infrastructure**. I enjoy working across the full development lifecycle, from dataset preparation and model experimentation to APIs, user interfaces, and deployment.
+
+I am especially interested in making AI more useful for Khmer speakers through document intelligence, speech recognition, and language technologies.
+
+### 🔭 What I'm Working On
+
+- 🤖 Developing intelligent assistants and AI-powered applications
+- 🇰🇭 Exploring Khmer handwriting recognition and speech processing
+- 🧠 Learning neural networks, backpropagation, and transformer architectures
+- 🔍 Building RAG pipelines, embeddings, and semantic search
+- ⚡ Developing scalable AI services with FastAPI, PostgreSQL, and Redis
+- 🐳 Working with Docker, monitoring, and microservices
+
+---
+
+## 🛠️ `phoun@skai:~$ cat tech-stack.yml`
 
 ### 💻 Programming Languages
 
@@ -88,7 +154,7 @@ I'm particularly interested in building AI systems that understand the **Khmer l
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🧠 AI & Machine Learning
 
@@ -120,7 +186,7 @@ I'm particularly interested in building AI systems that understand the **Khmer l
 
 ---
 
-## `phoun@skai:~$ ls projects/`
+## 🚀 `phoun@skai:~$ ls projects/`
 
 ### ☀️ Sorya-AI — Intelligent AI Assistant
 
@@ -128,56 +194,54 @@ I'm particularly interested in building AI systems that understand the **Khmer l
 
 Working on intelligent AI capabilities including document understanding, retrieval-augmented generation, multilingual processing, and scalable AI services.
 
-**Technology stack:**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Python` `FastAPI` `SvelteKit` `TypeScript` `PostgreSQL` `Redis` `Docker` `LLMs` `RAG`
+<h4>🧠 AI & Language</h4>
 
-```text
-SORYA-AI
-│
-├── AI & Language
-│   ├── Large Language Models
-│   ├── Retrieval-Augmented Generation
-│   ├── Embedding & Semantic Search
-│   └── Khmer OCR / ASR Exploration
-│
-├── Backend
-│   ├── FastAPI
-│   ├── PostgreSQL
-│   └── Redis
-│
-├── Frontend
-│   ├── SvelteKit
-│   └── TypeScript
-│
-└── Infrastructure
-    ├── Docker
-    ├── Prometheus
-    └── Grafana
-```
+- Large Language Models
+- Retrieval-Augmented Generation
+- Embeddings & Semantic Search
+- Khmer OCR / ASR Exploration
+
+</td>
+<td width="50%" valign="top">
+
+<h4>⚙️ Engineering</h4>
+
+- FastAPI & PostgreSQL
+- SvelteKit & TypeScript
+- Redis & Docker
+- Prometheus & Grafana
+
+</td>
+</tr>
+</table>
+
+**Tech Stack:** `Python` `FastAPI` `SvelteKit` `TypeScript` `PostgreSQL` `Redis` `Docker` `LLMs` `RAG`
 
 ### 🇰🇭 Khmer OCR & Speech Recognition
 
-Exploring AI techniques to make Khmer-language content more accessible.
+Exploring computer vision and speech-processing techniques to make Khmer-language content more accessible.
 
-**Areas of focus:**
+**Focus areas:**
 
-- Khmer printed-text recognition
-- Khmer handwriting recognition
-- OCR dataset preparation and labeling
+- Printed and handwritten Khmer text recognition
+- OCR dataset preparation and annotation
 - Text-line detection and segmentation
-- Khmer speech recognition
-- Computer vision and deep learning
+- Khmer speech recognition workflows
+- Deep learning and model evaluation
 
 ### 💻 Sastra
 
-[![Repository](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phanphounkh/sastra)
+[![Sastra Repository](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phanphounkh/sastra)
 
 A public development workspace for software experiments and learning.
 
 ---
 
-## `phoun@skai:~$ github --stats`
+## 📊 `phoun@skai:~$ github --stats`
 
 <div align="center">
 
@@ -197,46 +261,48 @@ A public development workspace for software experiments and learning.
 
 ---
 
-## `phoun@skai:~$ cat learning-roadmap.md`
+## 📚 `phoun@skai:~$ cat learning-roadmap.md`
 
-| Area | Current Learning Goals |
+| Area | What I'm Learning |
 |:---|:---|
-| 🧮 Mathematics | Linear algebra, derivatives, gradients, optimization |
-| 🧠 Neural Networks | Forward propagation, backpropagation, gradient descent |
-| 🔥 Deep Learning | PyTorch, training loops, model evaluation |
-| 🤖 Large Language Models | Tokenization, attention, transformers, fine-tuning |
-| 🇰🇭 Khmer AI | OCR, ASR, datasets, model evaluation |
-| 🚀 AI Engineering | Inference, monitoring, deployment, scalability |
+| 🧮 **Mathematics** | Linear algebra, derivatives, gradients, optimization |
+| 🧠 **Neural Networks** | Forward propagation, backpropagation, gradient descent |
+| 🔥 **Deep Learning** | PyTorch, training loops, model evaluation |
+| 🤖 **LLM Engineering** | Tokenization, attention, transformers, fine-tuning |
+| 🇰🇭 **Khmer AI** | OCR, ASR, datasets, model evaluation |
+| 🚀 **AI Engineering** | Inference, monitoring, deployment, scalability |
 
 ---
 
-## `phoun@skai:~$ cat connect.md`
+## 🤝 `phoun@skai:~$ cat connect.md`
 
 <div align="center">
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 **Interested in AI, machine learning, open source, or building useful technology?**
 
 Let's connect and share ideas.
 
 <p>
-<a href="https://github.com/phanphounkh">
-<img src="https://img.shields.io/badge/GitHub-phanphounkh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/phanphoun/">
-<img src="https://img.shields.io/badge/LinkedIn-Phan_Phoun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://www.camdev.site/">
-<img src="https://img.shields.io/badge/Website-camdev.site-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
+  <a href="https://github.com/phanphounkh">
+    <img src="https://img.shields.io/badge/GitHub-phanphounkh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/phanphoun/">
+    <img src="https://img.shields.io/badge/LinkedIn-Phan_Phoun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.camdev.site/">
+    <img src="https://img.shields.io/badge/Website-camdev.site-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-*"The best way to understand intelligence is to build it, test it, and keep learning."*
+### 💡 My Engineering Philosophy
+
+**Learn → Build → Experiment → Improve**
+
+*Turning ideas into intelligent systems, one project at a time.*
 
 `while (learning) { build(); experiment(); improve(); }`
 
