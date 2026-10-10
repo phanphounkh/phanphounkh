@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./assets/profile.png" width="180" alt="Phan Phoun" />
+<img src="./Is.png" width="180" alt="Phan Phoun" />
 
 ### AI/ML Engineer | Full-Stack Developer | Cambodia 🇰🇭
 
