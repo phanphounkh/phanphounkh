@@ -255,7 +255,7 @@ A public development workspace for software experiments and learning.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phanphounkh&theme=github-compact&hide_border=true" width="95%" alt="GitHub contribution activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phanphounkh&amp;theme=github_dark" width="95%" alt="GitHub profile activity summary" />
 
 </div>
 
