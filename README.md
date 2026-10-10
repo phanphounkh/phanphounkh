@@ -2,10 +2,8 @@
 # Hi, I'm Phan Phoun 👋
 
 <div align="center">
-
-<div align="center">
   <img
-    src="./Is.png"
+    src="./ls.png"
     width="180"
     alt="Phan Phoun - AI/ML Engineer"
   />
