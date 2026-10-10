@@ -4,8 +4,8 @@
 <div align="center">
   <img
     src="./ls.png"
-    width="180"
-    alt="Phan Phoun - AI/ML Engineer"
+    alt="Sorya AI - Phan Phoun"
+    width="850"
   />
 </div>
 
