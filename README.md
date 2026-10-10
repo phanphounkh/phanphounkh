@@ -5,7 +5,7 @@
   <img
     src="./ls.png"
     alt="Sorya AI - Phan Phoun"
-    width="850"
+    width="100%"
   />
 </div>
 
